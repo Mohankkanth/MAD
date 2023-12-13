@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096835246559",
+    "project_id": "hotel-brookes",
+    "storage_bucket": "hotel-brookes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096835246559:android:adad5acbe8e0bd2f6cbc6a",
+        "android_client_info": {
+          "package_name": "com.example.hotel_brookes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096835246559-89fj70osv7af1230f5ktog2ikdd0266s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI5dfQ4KlJpujDpnW8YhjJlGZ8gjvMV-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096835246559-89fj70osv7af1230f5ktog2ikdd0266s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
